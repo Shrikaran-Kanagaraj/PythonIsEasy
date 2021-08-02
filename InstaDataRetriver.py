@@ -19,6 +19,7 @@ print('Bio:\n', bio)
 link_in_bio = user.website
 print('Link in Bio:', link_in_bio)
 
+|--------------------------------------------------|
 
 OUTPUT :
 
